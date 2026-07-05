@@ -8,7 +8,7 @@ Please report security issues **privately** - do not open a public issue.
 
 - Preferred: click **"Report a vulnerability"** on this repository's **Security** tab
   (GitHub private advisories).
-- Or email: r.bento.brazil@gmail.com
+- Or email: r.bento.development@gmail.com
 
 Include the affected version and steps to reproduce. You will get an acknowledgement
 as soon as possible.
